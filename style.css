@@ -1,0 +1,94 @@
+header, main, footer{
+
+
+max-width: 85%;
+margin: 70px auto;
+
+
+
+
+}
+
+header{
+
+
+    background: url(/Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 1170px;
+height: 500px;
+
+
+    border-radius: 16px;
+margin: 0 auto;
+
+}
+
+
+.banner_heading{
+
+
+
+    color: #fff;
+   
+    font-size: 64px;
+
+    font-weight: 800;
+    text-align: center;
+   padding-top: 50px;
+    
+
+}
+
+.banner_text{
+
+
+    color: #fff;
+
+ 
+    width: 676px;
+    margin: 0 auto;
+
+
+font-size: 16px;
+
+font-weight: 400;
+
+}
+
+
+
+
+
+.banner_form{
+
+margin: 0 auto;
+display: flex;
+
+align-items: center;
+
+align-content: center;
+
+
+
+}
+
+
+.popular_tour{
+
+
+display: flex;
+gap:50px;
+margin: 0 auto;
+
+
+}
+
+
+.popular_image{
+width: 100%;
+
+}
+
+
+
+
